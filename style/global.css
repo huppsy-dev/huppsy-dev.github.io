@@ -10,3 +10,22 @@
     font-size: 170%;
     color: azure;
 }
+
+/*Content padding for desktop*/
+@media (max-width: 99999px) {
+    .site-content {
+        padding-left: 100px;
+		padding-right: 100px;
+    }
+
+@media (min-width: 1024px) {
+    .site-content {
+        padding-left: 100px;
+		padding-right: 100px;
+    }
+
+/*Adjust Content Padding for Mobile*/
+@media (max-width: 800px) {
+    .site-content {
+        padding-top: 50px;
+    }
