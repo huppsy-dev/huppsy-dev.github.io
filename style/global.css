@@ -10,23 +10,6 @@
     font-size: 170%;
     color: azure;
 }
-
-/*Content padding for desktop*/
-@media (max-width: 99999px) {
-    .site-content {
-        padding-left: 100px;
-	padding-right: 100px;
-    }
-
-@media (max-width: 1024px) {
-    .site-content {
-        padding-left: 0px;
-	padding-right: 0px;
-    }
-
-    img {
-	max-width: 100%;
-    }
 	
 /*yt and tw buttons*/	
 	
