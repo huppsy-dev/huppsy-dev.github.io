@@ -17,6 +17,7 @@
     opacity: 0.85;
     transition: 0.3s;
     cursor: pointer;
+	padding-bottom: 4
 }
 
 .buttonYt:hover {
