@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
+:root {
+    text-align: center;  
+    padding-left: 40px;
+    padding-right: 40px;
+    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
+    background-color: #0f0f0f;
+    font-size: 170%;
+    color: azure;
+}
+
+.buttonYt {
+    opacity: 0.85;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.buttonYt:hover {
+    opacity: 1;
+}
+
+.buttonTw {
+    opacity: 0.85;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.buttonTw:hover {
+    opacity: 1;
+}
+
